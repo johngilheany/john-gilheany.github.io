@@ -1,6 +1,6 @@
 ---
 title: Detecting Prostate Cancer
-summary: Fine tuned a pretrained ResNet50 CNN model, to detect cancerous tissue from whole slide images. 
+summary: Fine tuned a pretrained ResNet50 CNN model to detect cancerous regions in slide images. 
 tags:
   - CV
 date: 2023-12-07
