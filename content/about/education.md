@@ -29,19 +29,7 @@ experience:
     location: Massachusetts 
     date_start: '2021-01-01'
     date_end: '2017-12-01'
-    description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
-
-  - title: BEng Electronic Engineering
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+    description: Graduated with Honors, cum laude
 
 design:
   columns: '1'

@@ -57,6 +57,7 @@ experience:
     date_start: '2018-08-01'
     date_end: '2020-03-01'
     description: Brandes is a long-only investment manager with ~$20bn in assets
+
 design:
   columns: '1'
 ---
