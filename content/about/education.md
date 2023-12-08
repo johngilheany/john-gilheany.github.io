@@ -25,7 +25,7 @@ experience:
   - title: Bachelor of Science in Statistics
     company: Harvard University
     company_url: ''
-    company_logo: Harvard
+    company_logo: ''
     location: Massachusetts 
     date_start: '2013-08-01'
     date_end: '2017-12-01'
