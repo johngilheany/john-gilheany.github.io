@@ -25,21 +25,21 @@ experience:
   - title: Investment Associate (Consumer Health) 
     company: Woodline Partners
     company_url: 'https://woodlinepartners.com/'
-    company_logo: icon
+    company_logo: ''
     location: New York
     date_start: '2023-01-01'
     date_end: '2023-08-01'
     description: |2-
-        Woodline Partners is an investment firm that implements a fundamental sub-sector equity strategy, managing $8bn+ in assets. 
+        Woodline Partners is a multi-strategy hedge fund managing $8bn+ in assets. 
 
   - title: Investment Analyst (Consumer & TMT)
     company: Brookfield BHS Advisors
     company_url: 'https://www.brookfield.com/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: New York
+    date_start: '2021-08-01'
+    date_end: '2022-12-01'
+    description: Brookfield BHS Advisors was a $1.3bn multi-strategy hedge fund platform within Brookfield (ceased operations in 2023).
 
 design:
   columns: '1'
