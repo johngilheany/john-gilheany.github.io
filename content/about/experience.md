@@ -25,7 +25,7 @@ experience:
   - title: Investment Associate
     company: Woodline Partners
     company_url: 'https://woodlinepartners.com/'
-    company_logo: org-gc
+    company_logo: org-wp
     location: New York
     date_start: '2023-01-01'
     date_end: '2023-08-01'
