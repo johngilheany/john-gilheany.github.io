@@ -72,4 +72,4 @@ His background as an investment professional allows me to deliver value through 
 
 He enjoys applying the scientific process to solve real-world problems and to have a positive impact.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+<!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF. -->
