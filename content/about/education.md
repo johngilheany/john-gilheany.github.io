@@ -25,9 +25,9 @@ experience:
   - title: Bachelor of Science in Statistics
     company: Harvard University
     company_url: ''
-    company_logo: ''
+    company_logo: Harvard
     location: Massachusetts 
-    date_start: '2021-01-01'
+    date_start: '2013-08-01'
     date_end: '2017-12-01'
     description: Graduated with Honors, cum laude
 
