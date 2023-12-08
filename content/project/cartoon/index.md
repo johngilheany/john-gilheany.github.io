@@ -1,6 +1,6 @@
 ---
-title: Detecting Prostate Cancer Using a Convolutional Neural Network with Transfer Learning
-summary: Fine tuned a pretrained ResNet50 CNN model, achieving an accuracy greater than 89%. Employed tiling and stitching techniques to have the model output a probability shaded cancer mask overlayed on a whole-slide image. Deployed model on a streamlit app, where custom tissue samples can be uploaded and tested 
+title: Detecting Prostate Cancer
+summary: Fine tuned a pretrained ResNet50 CNN model, to detect cancerous tissue from whole slide images. 
 tags:
   - CV
 date: 2023-12-07

@@ -1,8 +1,8 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
+title: Ames Housing Challenge
+summary: Created a regression model that predicts the price of houses in Ames, IA.
 tags:
-  - NLP
-date: 2022-01-01
-external_link: http://github.com
+  - ML
+date: 2023-10-05
+external_link: https://github.com/johngilheany/ames_home_price
 ---
