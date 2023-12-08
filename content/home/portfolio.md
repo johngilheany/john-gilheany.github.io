@@ -34,7 +34,8 @@ content:
       tag: CV
     - name: NLP
       tag: NLP
-
+    - name: Time Series
+      tag: TS
 design:
   columns: '1'
   view: masonry
