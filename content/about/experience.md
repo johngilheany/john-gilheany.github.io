@@ -29,7 +29,7 @@ experience:
     location: New York
     date_start: '2023-01-01'
     date_end: '2023-08-01'
-    description: Woodline Partners is a multi-strategy hedge fund managing $8bn+ in assets. 
+    description: Woodline Partners is a multi-strategy hedge fund managing $8bn+ in assets
 
   - title: Investment Analyst (Consumer & TMT)
     company: Brookfield BHS Advisors
@@ -38,7 +38,16 @@ experience:
     location: New York
     date_start: '2021-08-01'
     date_end: '2022-12-01'
-    description: Brookfield BHS Advisors was a $1.3bn multi-strategy hedge fund platform within Brookfield (ceased operations in 2023).
+    description: Brookfield BHS Advisors was a $1.3bn multi-strategy hedge fund platform within Brookfield (ceased operations in 2023)
+
+  - title: Investment Banking Analyst (FinTech)
+    company: Bank of America
+    company_url: 'https://www.bankofamerica.com/'
+    company_logo: ''
+    location: New York
+    date_start: '2020-05-01'
+    date_end: '2021-08-01'
+    description: Bank of America provides M&A, debt and equity product expertise to deliver integrated financial solutions for its clients
 
 design:
   columns: '1'
