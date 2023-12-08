@@ -49,15 +49,6 @@ experience:
     date_end: '2021-08-01'
     description: Bank of America provides M&A, debt and equity product expertise to deliver integrated financial solutions for its clients
 
-- title: Investment Associate (Consumer)
-    company: Brandes Investment Partners
-    company_url: 'https://www.brandes.com/'
-    company_logo: ''
-    location: San Diego
-    date_start: '2018-08-01'
-    date_end: '2020-03-01'
-    description: Brandes is a long-only investment manager with ~$20bn in assets
-
 design:
   columns: '1'
 ---
