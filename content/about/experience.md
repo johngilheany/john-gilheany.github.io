@@ -29,13 +29,12 @@ experience:
     location: New York
     date_start: '2023-01-01'
     date_end: '2023-08-01'
-    description: |2-
-        Woodline Partners is a multi-strategy hedge fund managing $8bn+ in assets. 
+    description: Woodline Partners is a multi-strategy hedge fund managing $8bn+ in assets. 
 
   - title: Investment Analyst (Consumer & TMT)
     company: Brookfield BHS Advisors
     company_url: 'https://www.brookfield.com/'
-    company_logo: org-x
+    company_logo: ''
     location: New York
     date_start: '2021-08-01'
     date_end: '2022-12-01'
