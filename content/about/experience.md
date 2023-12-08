@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Investment Associate
+  - title: Investment Associate (Consumer Health) 
     company: Woodline Partners
     company_url: 'https://woodlinepartners.com/'
-    company_logo: org-wp
+    company_logo: icon
     location: New York
     date_start: '2023-01-01'
     date_end: '2023-08-01'
     description: |2-
         Woodline Partners is an investment firm that implements a fundamental sub-sector equity strategy, managing $8bn+ in assets. 
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Investment Analyst (Consumer & TMT)
+    company: Brookfield BHS Advisors
+    company_url: 'https://www.brookfield.com/'
     company_logo: org-x
     location: California
     date_start: '2016-01-01'
