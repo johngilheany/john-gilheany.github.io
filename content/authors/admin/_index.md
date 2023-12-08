@@ -67,7 +67,9 @@ social:
 ---
 
 John Gilheany is a forward-thinking Data Scientist who uses curiosity, emotional intelligence, creativity, and efficiency to tell stories with data. 
+
 His background as an investment professional allows me to deliver value through efficient processes, critical thinking, problem solving, and resourceful expertise. 
+
 He enjoys applying the scientific process to solve real-world problems and to have a positive impact.
 
-<!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF. -->
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
